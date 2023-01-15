@@ -1,7 +1,7 @@
 # CSS
 
  * https://wsss.tistory.com/
-  * CSS Template
+   * CSS Template
 
 # Chromium Extension
 
@@ -10,4 +10,4 @@
 
 # React 
  * https://beta.reactjs.org/
-  * React Docs beta
+   * React Docs beta
