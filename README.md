@@ -3,11 +3,27 @@
     * https://wsss.tistory.com/ ( Korean )
     * https://freefrontend.com/
     * https://codemyui.com/
+  * Color Picker
+    * https://yeun.github.io/open-color/
+  * Two Color combinaitons
+    * https://2colors.colorion.co/
+  * Color Gradients  
+    * https://uigradients.com/#BacktotheFuture
 
 # React 
   * React Docs beta
     * https://beta.reactjs.org/
    
+# TypeScript
+  * Releases
+    * https://github.com/microsoft/TypeScript/releases
+
+# Bundler
+  * Vite
+    * https://vitejs.dev/
+    * https://vitejs-kr.github.io/ ( Korean )
+  * Turbopack
+    * https://turbo.build/pack
 
 # Chromium Extension
   * chrom Extension
@@ -28,6 +44,4 @@
   * https://ohmyposh.dev/
   * https://ohmyz.sh/
 
-# Color Picker
-  * https://yeun.github.io/open-color/
 
