@@ -1,7 +1,8 @@
 # CSS
-  * CSS Template
+  * Code Snippets
     * https://wsss.tistory.com/ ( Korean )
     * https://freefrontend.com/
+    * https://codemyui.com/
 
 # React 
   * React Docs beta
