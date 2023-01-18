@@ -10,6 +10,10 @@
   * Color Gradients  
     * https://uigradients.com/#BacktotheFuture
 
+# JS
+  * Javascript memorty leak
+    * https://yceffort.kr/2020/07/memory-leaks-in-javascript ( Korean )
+
 # React 
   * React Docs beta
     * https://beta.reactjs.org/
