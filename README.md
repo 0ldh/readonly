@@ -11,7 +11,7 @@
     * https://uigradients.com/#BacktotheFuture
 
 # JS
-  * Javascript memorty leak
+  * Javascript memory leak
     * https://yceffort.kr/2020/07/memory-leaks-in-javascript ( Korean )
 
 # React 
