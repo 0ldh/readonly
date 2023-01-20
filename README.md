@@ -48,4 +48,5 @@
   * https://ohmyposh.dev/
   * https://ohmyz.sh/
 
-
+# etc
+  * https://ui.toast.com/posts/ko ( Korean )
