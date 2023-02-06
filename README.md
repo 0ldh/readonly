@@ -33,6 +33,8 @@
   * [oh-my-posh](https://ohmyposh.dev/)
   * [oh-my-zsh](https://ohmyz.sh/)
 
+# MDX
+
 # etc
   * [FE-NEWS(NAVER)](https://github.com/naver/fe-news) ( Korean )
   * [chrom Extension](https://dev.to/hackertab/12-hand-picked-chrome-extensions-that-will-change-the-way-you-do-web-development-in-2023-ni9?utm_source=oneoneone)
