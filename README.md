@@ -11,7 +11,7 @@
   * [Javascript memory leak](https://yceffort.kr/2020/07/memory-leaks-in-javascript) ( Korean )
 
 # React 
-  * [React Docs beta](https://beta.reactjs.org/)
+  * [React Docs beta](https://react.dev/)
    
 # TypeScript
   * [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
