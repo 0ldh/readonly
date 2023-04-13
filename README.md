@@ -42,3 +42,4 @@
   * [TOASTUI Posts](https://ui.toast.com/posts/ko) ( Korean )
   * [Monkey Type](https://monkeytype.com/)
   * [Developer Tools](https://javascript.plainenglish.io/14-essential-developer-tools-to-10x-your-productivity-7ff779ec55de)
+  * [JSONPlaceholder, Free Fake REST API](https://jsonplaceholder.typicode.com/)
